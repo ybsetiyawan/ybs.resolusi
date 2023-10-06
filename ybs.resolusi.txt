@@ -1,1 +1,4 @@
-
+ybs resolusi 2023 - 2024
+- menjadi fullstack developer yang bermanfaat bagi orang lain
+- membangun aplikasi dan bisa dijalankan
+- mendapatkan penghasilan dari aplikasi yang sudah dibangun
